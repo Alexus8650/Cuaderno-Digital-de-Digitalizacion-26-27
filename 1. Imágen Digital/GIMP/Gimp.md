@@ -9,7 +9,7 @@ Ha ido evolucionando notablemente a lo largo del tiempo:
 
 GIMP es también conocido por ser quizás la primera gran aplicación libre para usuarios no profesionales o expertos. Productos libres originados anteriormente, como GCC, el núcleo Linux, etc., eran principalmente herramientas de programadores para programadores.
 
-Wilber, la mascota de Gimp:
+__Wilber, la mascota de Gimp:__
 
 <p align="center">
 <img src="https://github.com/Alexus8650/Cuaderno-Digital-de-Digitalizacion-26-27/blob/17b339b09fad76656366d491ae7c00637fc7ffe1/1.%20Im%C3%A1gen%20Digital/GIMP/Im%C3%A1genes/Wilber-gimp.png" width="300" height="300" />
