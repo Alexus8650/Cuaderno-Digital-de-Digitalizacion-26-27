@@ -18,5 +18,8 @@ Yo también usé distintos pinceles para aportar un fondo vegetal y unas bolas d
 La mía quedó así:
 
 <p align="center">
-<img src="https://github.com/Alexus8650/Cuaderno-Digital-de-Digitalizacion-26-27/blob/c1b3bcc7cbde86f6ef5f7b8f5598a4abb68b1b10/1.%20Im%C3%A1gen%20Digital/GIMP/Im%C3%A1genes/ZAPATILLAGoty.png" width="300" height="300" />
+<img src="https://github.com/Alexus8650/Cuaderno-Digital-de-Digitalizacion-26-27/blob/c1b3bcc7cbde86f6ef5f7b8f5598a4abb68b1b10/1.%20Im%C3%A1gen%20Digital/GIMP/Im%C3%A1genes/ZAPATILLAGoty.png" width="700" height="700" />
+</p>
+<p align="center">
+Propia(ARD)-Dominio Público
 </p>
