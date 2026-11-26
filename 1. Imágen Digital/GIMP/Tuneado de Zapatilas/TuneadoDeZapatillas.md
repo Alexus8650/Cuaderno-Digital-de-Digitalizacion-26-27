@@ -9,6 +9,15 @@ El archivo ya dispone de algunas texturas para trabajar, pero tú puedes descarg
 
 Este es el archivo a descargar: [Descarga](https://drive.google.com/file/d/1HynA2o6lz-fsRSy6cCGa121pxEID6HnX/view)
 
+Esta es la imágen inicial descargada:
+
+<p align="center">
+<img src="https://github.com/Alexus8650/Cuaderno-Digital-de-Digitalizacion-26-27/blob/32728efcaa0e9eb1ae712c228c411331181db7c4/1.%20Im%C3%A1gen%20Digital/GIMP/Im%C3%A1genes/ZapaSinMod.png" width="700" height="700" />
+</p>
+<p align="center">
+Pixabay-Dominio Público
+</p>
+
 ## Proceso
 En este trabajo usamos herramientas como la selección por color o la varita mágica para seleccionar una parte específica de la zapatilla y cambiarle el color.
 También se utilizaron distintas texturas como de graffiti o papel de aluminio en distintas capas para sustituirlas por el área seleccionada de la zapatilla con las herramientas anteriores.
