@@ -13,7 +13,7 @@ Profesor-Usada para usos educativos, posibilidad de copiright.
 </p>
 
 
-### Producto Final
+## Producto Final
 Yo he usado otra vez un pincel de orbes de luz en una capa inferior a los edificios. También eliminé la moto y unas cuantas manchas y un par de ventanas.
 
 Así me quedó:
